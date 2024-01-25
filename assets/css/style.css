@@ -151,7 +151,7 @@ html {
 }
 
 body {
-  background-color: var(--white);
+  background-color: var(--gray-web);
   color: var(--gray-web);
   font-size: 1.6rem;
   font-weight: var(--fw-500);
