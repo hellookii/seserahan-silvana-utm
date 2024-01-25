@@ -301,7 +301,7 @@ body {
 }
 
 .btn-link {
-  color: var(--black);
+  color: var(--pale-spring-bud);
   font-weight: var(--fw-600);
   display: flex;
   align-items: center;
