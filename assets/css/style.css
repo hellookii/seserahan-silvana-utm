@@ -302,6 +302,7 @@ body {
 
 .btn-link {
   color: var(--black);
+  background-color: var(--hoockers-green);
   font-weight: var(--fw-600);
   display: flex;
   align-items: center;
