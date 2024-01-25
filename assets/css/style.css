@@ -301,7 +301,7 @@ body {
 }
 
 .btn-link {
-  color: var(--white);
+  color: var(--black);
   font-weight: var(--fw-600);
   display: flex;
   align-items: center;
@@ -369,7 +369,7 @@ body {
 
 .alert {
   background-color: var(--pale-spring-bud);
-  color: var(--black);
+  color: var(--white);
   font-size: var(--fs-7);
   text-transform: uppercase;
   font-weight: var(--fw-700);
