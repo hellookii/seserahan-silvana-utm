@@ -524,7 +524,7 @@ body {
 
 .hero-text {
   font-size: var(--fs-6);
-  color: var(--black);
+  color: var(--white);
   margin-block: 16px 30px;
 }
 
