@@ -193,7 +193,7 @@ body {
 .h2,
 .h3,
 .h2-large {
-  color: var(--black);
+  color: var(--white);
   font-weight: var(--fw-600);
   line-height: 1.3;
 }
