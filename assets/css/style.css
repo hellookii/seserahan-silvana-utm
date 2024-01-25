@@ -373,7 +373,7 @@ body {
 }
 
 .alert {
-  background-color: var(--white);
+  background-color: #D24545;
   color: var(--white);
   font-size: var(--fs-7);
   text-transform: uppercase;
