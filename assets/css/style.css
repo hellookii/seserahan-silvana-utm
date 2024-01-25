@@ -303,12 +303,15 @@ body {
 .btn-link {
   color: var(--black);
   background-color: var(--hoockers-green);
+  border-radius: var(--radius-3);
   font-weight: var(--fw-600);
   display: flex;
   align-items: center;
   gap: 3px;
   transition: var(--transition-1);
 }
+
+.btn-link:is(:hover, :focus) { background-color: var(--hoockers-green); }
 
 .img-holder {
   aspect-ratio: var(--width) / var(--height);
