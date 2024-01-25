@@ -187,6 +187,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  border-radius: var(--radius-3);
 }
 
 .h1,
