@@ -478,7 +478,7 @@ body {
 .nav-close-btn ion-icon { --ionicon-stroke-width: 40px; }
 
 .mobile-navbar .navbar-link {
-  color: var(--black);
+  color: var(--white);
   font-size: var(--fs-8);
   text-transform: uppercase;
   font-weight: var(--fw-600);
