@@ -383,7 +383,7 @@ body {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: var(--white);
+  background-color: var(--black);
   padding-block: 26px;
   z-index: 4;
 }
@@ -524,7 +524,7 @@ body {
 
 .hero-text {
   font-size: var(--fs-6);
-  color: var(--white);
+  color: var(--black);
   margin-block: 16px 30px;
 }
 
