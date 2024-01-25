@@ -219,7 +219,7 @@ body {
 
 .btn-primary,
 .btn-secondary:is(:hover, :focus) {
-  background-color: var(--black);
+  background-color: var(--white);
   color: var(--white);
 }
 
@@ -564,7 +564,7 @@ body {
 .collection-card .card-title { margin-block-end: 12px; }
 
 .collection-card .card-text {
-  color: var(--black);
+  color: var(--white);
   font-size: var(--fs-6);
   font-weight: var(--fw-600);
   margin-block-end: auto;
