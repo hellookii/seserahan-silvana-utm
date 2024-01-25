@@ -184,10 +184,10 @@ body {
 .section { padding-block: var(--section-padding); }
 
 .has-bg-image {
+  border-radius: 25px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  border-radius: 25px;
 }
 
 .h1,
