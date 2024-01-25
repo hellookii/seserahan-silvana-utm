@@ -304,6 +304,7 @@ body {
   color: var(--black);
   background-color: var(--hoockers-green);
   border-radius: var(--radius-3);
+  padding: 10px 30px;
   font-weight: var(--fw-600);
   display: flex;
   align-items: center;
