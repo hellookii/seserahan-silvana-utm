@@ -219,8 +219,8 @@ body {
 
 .btn-primary,
 .btn-secondary:is(:hover, :focus) {
-  background-color: var(--white);
-  color: var(--black);
+  background-color: var(--hoockers-green);
+  color: var(--white);
 }
 
 .btn-primary:is(:hover, :focus) { background-color: var(--hoockers-green); }
