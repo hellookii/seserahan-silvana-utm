@@ -273,6 +273,7 @@ body {
 
 .hover\:shine .has-bg-image {
   position: absolute;
+  border-radius: 25px;
   top: 0;
   right: 0;
   bottom: 0;
