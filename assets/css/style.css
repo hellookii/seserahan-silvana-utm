@@ -483,7 +483,7 @@ body {
 .nav-close-btn ion-icon { --ionicon-stroke-width: 40px; }
 
 .mobile-navbar .navbar-link {
-  color: var(--white);
+  color: var(--black);
   font-size: var(--fs-8);
   text-transform: uppercase;
   font-weight: var(--fw-600);
