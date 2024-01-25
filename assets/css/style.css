@@ -318,7 +318,7 @@ body {
 
 .img-holder {
   aspect-ratio: var(--width) / var(--height);
-  background-color: var(--light-gray);
+  background-color: var(--white);
 }
 
 .img-cover {
@@ -524,7 +524,7 @@ body {
 .hero { padding-block-start: 0; }
 
 .hero-card {
-  background-color: var(--light-gray);
+  background-color: var(--white);
   padding: 100px 15px;
   background-position: 40%;
 }
@@ -560,7 +560,7 @@ body {
 }
 
 .collection-card {
-  background-color: var(--light-gray);
+  background-color: var(--white);
   min-height: 400px;
   padding: 40px;
   padding-block-end: 30px;
