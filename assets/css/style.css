@@ -36,7 +36,6 @@
   --black_5: hsla(0, 0%, 0%, 0.05);
   --white: hsl(0, 0%, 100%);
   --black: hsl(0, 0%, 0%);
-  
 
   /**
    * gradient color
@@ -152,7 +151,7 @@ html {
 }
 
 body {
-  background-color: #B19470;
+  background-color: var(--white);
   color: var(--gray-web);
   font-size: 1.6rem;
   font-weight: var(--fw-500);
